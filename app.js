@@ -19,3 +19,5 @@ fs.writeFileSync('pessoas.json', JSON.stringify(pessoas,null,4))
 
 // Passo 5: Mostrar o array de pessoas no dormarto de tabela
 
+// criar um arquivo remover.js
+//esse script deve receber uum numero com o parametro e deve remover a pessoa indicada por esse elemento 

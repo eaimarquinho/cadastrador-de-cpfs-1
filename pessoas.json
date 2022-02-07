@@ -1,14 +1,5 @@
 [
     {
-        "nome": "Gustavo Welter",
-        "cpf": "831.950.240-39",
-        "casado": true,
-        "filhos": [
-            "Mariana",
-            "Natalia"
-        ]
-    },
-    {
         "nome": "André",
         "cpf": "888.999.240-39",
         "casado": true,
